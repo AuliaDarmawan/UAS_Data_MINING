@@ -17,5 +17,8 @@ Classifier webapp dibangun dengan menggunakan Streamlit (Python-framework). Tuju
 - sklearn.neighbors - KNN
 ### Deployment
 - GitHub
+## References
+* For Dataset [Kaggle](https://www.kaggle.com/uciml/pima-indians-diabetes-database)
+* For UI [Streamlit](https://streamlit.io/)
 ### Error
 - Apabila Terjadi Error pada saat import Pandas-Profilling bisa digantikan dengan mengimport ydata-profilling
